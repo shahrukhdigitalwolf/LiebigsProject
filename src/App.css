@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+::selection{
+    color: #ffffff;
+    background-color: #0dafe0;
+}
+a{
+    text-decoration: none;
+    color: rgb(70, 70, 70);
+}
+a:hover{
+    color: #664d03;
+}
+ul{
+    list-style-type: none;
+}
