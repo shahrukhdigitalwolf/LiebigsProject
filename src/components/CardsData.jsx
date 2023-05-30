@@ -2,7 +2,7 @@
 const PlantsData = [
     {
         id : 1,
-        setImg : "./img/plant1.jpg",
+        setImg : "../assets/img/banner/new3.jpg",
         alt : "plant-1 ",
         name : 'Plants 1',
         price : '499',
